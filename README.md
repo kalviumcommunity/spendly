@@ -1,6 +1,6 @@
-# Expense Tracker — GA2 Starter (HTML + CSS + TypeScript)
+# Spendly — a mini expense tracker (HTML + CSS + TypeScript)
 
-A small starter for **Graded Assignment 2 (Module 4 · TypeScript)**. Boilerplate (HTML, CSS, `tsconfig`, build script) is done for you. Your job: complete the TypeScript in `src/app.ts` so the app works, then **deploy it** and submit.
+A small starter project. Boilerplate (HTML, CSS, `tsconfig`, build script) is done for you. Your job: complete the TypeScript in `src/app.ts` so the app works, then **deploy it** and submit.
 
 > 👉 Full task list + marks: see **[TODO.md](./TODO.md)**.
 

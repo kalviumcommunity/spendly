@@ -1,4 +1,4 @@
-# TODO — Expense Tracker (what you must complete)
+# TODO (Spendly) — what you must complete
 
 Complete every task in `src/app.ts`. Each task maps to the marks below.
 Build with `npm run build` (must compile with **zero** type errors).

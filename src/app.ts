@@ -1,5 +1,5 @@
 /* =========================================================================
-   Expense Tracker — starter
+   Spendly — a mini expense tracker (starter)
    Fill in every TODO. Your code must compile with `npm run build`
    (tsc, strict mode) with ZERO type errors. Do NOT use `any` to dodge types.
    See TODO.md for the task list and marks.

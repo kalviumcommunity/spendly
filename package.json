@@ -1,7 +1,7 @@
 {
-  "name": "expense-tracker",
+  "name": "spendly",
   "version": "1.0.0",
-  "description": "GA2 - Expense Tracker (HTML + CSS + TypeScript)",
+  "description": "Spendly - a mini expense tracker (HTML + CSS + TypeScript)",
   "private": true,
   "scripts": {
     "build": "tsc",
