@@ -1,0 +1,13 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "GA2 - Expense Tracker (HTML + CSS + TypeScript)",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
